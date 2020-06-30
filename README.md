@@ -1,5 +1,5 @@
-# repository-explorer
-Projeto para explorar repositórios do GitHub
+# repository-explorer :octocat:
+## Projeto para explorar repositórios do GitHub
 
 <p align=center>
 <img src=".github/image1.png" width="600"/>
